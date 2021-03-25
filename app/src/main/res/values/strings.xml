@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pythonuizzz</string>
+    <string name="button1">YES</string>
+    <string name="button2">NO</string>
+    <string name="is_python_created_by_sundar_pichai">Is Python created by Sundar Pichai ?</string>
+    <string name="todo">TODO</string>
+    <string name="pythonlogo">PythonLogo</string>
+</resources>
